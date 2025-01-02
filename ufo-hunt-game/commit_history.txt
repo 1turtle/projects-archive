@@ -1,0 +1,107 @@
+commit 5d67f31d9c69b0694b84f35fb50f49e0dd14a1c0
+Author: MIKNSJ <>
+Date:   Sat Jun 29 17:16:07 2024 -0700
+
+    screenshots and video added, README.md init
+
+commit ce34a34a325de9362aba52e80bf1e1101f356d53
+Author: MIKNSJ <>
+Date:   Sat Jun 29 16:27:38 2024 -0700
+
+    updated hud speed indicator
+
+commit 064be6ed8b4467e4f4bf4820b90b76f1e68d3413
+Author: MIKNSJ <>
+Date:   Sat Jun 29 01:23:27 2024 -0700
+
+    init faulty hitmarker
+
+commit 4b0aef58ba689be36268daa1d31ef54f1a13adf7
+Author: MIKNSJ <>
+Date:   Fri Jun 28 19:33:13 2024 -0700
+
+    music and sound effects
+
+commit 29d7868f111fa6f7d26d7fc0d700b307d38da948
+Author: MIKNSJ <>
+Date:   Thu Jun 27 21:57:50 2024 -0700
+
+    init game over delay
+
+commit b4265d205dbc3f20c3c767716fe98b9aae6eb17c
+Author: MIKNSJ <>
+Date:   Thu Jun 27 21:32:15 2024 -0700
+
+    hud functionality
+
+commit c5df443856960d09805366d1e98b41a236291dc6
+Author: MIKNSJ <>
+Date:   Thu Jun 27 14:32:44 2024 -0700
+
+    init score system
+
+commit e5c92e4f781daea5ee91a0e5daa3258fa69bbb16
+Author: MIKNSJ <>
+Date:   Thu Jun 27 01:54:49 2024 -0700
+
+    menu/game imgs and mouse menu func
+
+commit d3b3b4a3e7348fd16c38a2e3174f2ea0931a3531
+Author: MIKNSJ <>
+Date:   Wed Jun 26 20:29:47 2024 -0700
+
+    init random directional movement outline
+
+commit a0a3e6f57fce7620e5b3b66254d9d86b56cf3d61
+Author: MIKNSJ <>
+Date:   Tue Jun 25 23:03:50 2024 -0700
+
+    updated despawn, reset spawn locations, and init pause system
+
+commit 6064646ccf02fc9efc802b1f0fc8d7529c547871
+Author: MIKNSJ <>
+Date:   Tue Jun 25 14:12:16 2024 -0700
+
+    init basic despawn timer outline:
+
+commit eb2ff2be06e27d71ecb07056d82a48bff5621bf8
+Author: MIKNSJ <>
+Date:   Tue Jun 25 02:11:11 2024 -0700
+
+    init spawnDelay timer for first spawn only
+
+commit b700f0ca09c6de2376c856f3725d1aee78b54437
+Author: MIKNSJ <>
+Date:   Mon Jun 24 01:57:53 2024 -0700
+
+    init sprite functionality
+
+commit 08411aef7d20985668660ef50b2648f8b1b17c37
+Author: MIKNSJ <>
+Date:   Sat Jun 22 22:41:11 2024 -0700
+
+    init game hud outline
+
+commit 9d90e1a6f3e4837cdfa68b699766ef309d2b5331
+Author: MIKNSJ <>
+Date:   Fri Jun 21 22:31:08 2024 -0700
+
+    menu updated
+
+commit fce02118aca6767fe0fefb9b6b0aea28ef62f668
+Author: MIKNSJ <>
+Date:   Fri Jun 21 18:39:46 2024 -0700
+
+    init basic menu outline
+
+commit 9695431e3053462a87685f6c9341c531483e63e0
+Author: MIKNSJ <>
+Date:   Thu Jun 20 19:04:47 2024 -0700
+
+    init game.c
+
+commit 92143aaaff3aeb87696e46ca509a52f672fed234
+Author: 1 <>
+Date:   Thu Jun 20 17:40:36 2024 -0700
+
+    Initial commit
