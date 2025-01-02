@@ -1,0 +1,496 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Kanit", sans-serif;
+    font-style: normal;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.barrier {
+    height: 25px;
+}
+
+header {
+    background-color: white;
+    /*background-color: #FAF9F6;
+    position: sticky;
+    top: 0;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.10);
+    z-index: 1;
+    opacity: 1;
+    transform: translateY(0px);
+    transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;*/
+    position: sticky;
+    top: -100px;
+    z-index: 1;
+    transition: top 0.5s ease-in-out;
+}
+
+.enable_sticky_header {
+    background-color: #FAF9F6;
+    top: 0;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.10);
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5%;
+}
+
+#brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#header_chair {
+    width: 50px;
+    height: 50px;
+}
+
+.nav__bar {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav__bar_options {
+    position: absolute;
+    top: 100px;
+    z-index: 1;
+    opacity: 0;
+    pointer-events: none;
+    background-color: white;
+    /*background-color: #FAF9F6;*/
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.10);
+    transform: translateX(10px);
+    transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+
+    display: flex;
+    gap: 10px;
+    padding: 5px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__options_button {
+    display: flex;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+.nav__icon {
+    width: 50px;
+    height: 50px;
+}
+
+#nav_button_icon {
+    width: 50px;
+    height: 50px;
+}
+
+#nav_button {
+    display: flex;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+.show_nav_bar_options {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateX(0px);
+}
+
+.change_nav_button_icon {
+    content: url("assets/close.png");
+}
+
+.hide_header {
+    top: -100px;
+}
+
+.hide_nav_bar_options {
+    opacity: 0;
+    pointer-events: none;
+}
+
+#search_box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #FAF9F6;
+    border-radius: 25px;
+    padding: 10px 15px;
+    margin: 0 5%;
+}
+
+#search {
+    width: 25px;
+    height: 25px;
+}
+
+#search_input {
+    width: 100%;
+    background-color: #FAF9F6;
+    border: none;
+    outline: none;
+}
+
+#hero {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5%;
+}
+
+#hero_pic {
+    display: flex;
+    width: 100%;
+    border-radius: 25px;
+    filter: brightness(75%);
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,1);
+}
+
+#hero_caption {
+    position: absolute;
+    top: 25px;
+    
+    display: block;
+    text-align: center;
+}
+
+.hero_caption_text {
+    color: white;
+}
+
+#hero_caption_title {
+    font-size: 7vw;
+}
+
+#hero_caption_comment {
+    font-size: 5vw;
+}
+
+#featured {
+    display: flex;
+    flex-direction: column;
+    padding: 0 5%;
+    gap: 20px;
+}
+
+#featured_text {
+    text-align: center;
+}
+
+#featured_product {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+    text-decoration: none;
+    color: black;
+}
+
+#mattress {
+    display: flex;
+    width: 100%;
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+}
+
+#mattress_prices {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#mattress_sale_percentage {
+    color: red;
+}
+
+#mattress_tag {
+    position: absolute;
+    top: 1vh;
+    font-size: 5vw;
+    background-color: #D2042D;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+#popular {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5%;
+    gap: 20px;
+}
+
+#popular_items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.pop_prod {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    width: 100%;
+
+    color: black;
+    text-decoration: none;
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+}
+
+.pop__product_pic {
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+    flex-basis: 0;
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.5);
+}
+
+#hero_two {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5%;
+}
+
+#hero_two_pic {
+    display: flex;
+    width: 100%;
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,1);
+}
+
+#hero_two_caption {
+    position: absolute;
+    top: 25px;
+    
+    display: block;
+    text-align: center;
+}
+
+.hero_caption_text {
+    color: white;
+}
+
+#hero_two_caption_title {
+    font-size: 7vw;
+}
+
+#hero_two_caption_comment {
+    font-size: 5vw;
+}
+
+#cat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5%;
+    gap: 20px;
+}
+
+#cat_list {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    gap: 20px;
+}
+
+.cat__box {
+    border: none;
+    text-decoration: none;
+    color: black;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+    padding: 8% 0;
+
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.50);
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+#mn-br-con05 .barrier, #mn-br-con07 .barrier, #mn-br-con09 .barrier, #mn-br-con11 .barrier, #mn-br-con13 .barrier {
+    height: 100px;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5%;
+    gap: 20px;
+}
+
+#contact_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+footer {
+    background-color: #FAF9F6;
+}
+
+#footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5%;
+    gap: 20px;
+}
+
+#line_break {
+    border-top: solid 1px;
+    border-color: gray;
+    width: 100%;
+}
+
+#credit {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+#source {
+    color: black;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 750px) {
+    .nav__bar {
+        position: static;
+        flex-direction: row;
+        align-items: stretch;
+    }
+
+    .nav__bar_options {
+        position: static;
+        opacity: 1;
+        pointer-events: auto;
+        background-color: none;
+        box-shadow: none;
+        transform: none;
+        transition: none;
+    
+        display: flex;
+        gap: 20px;
+        padding: 0;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    #nav_button {
+        display: none;
+    }
+
+    .hide_nav_bar_options {
+        opacity: 1;
+    }
+    
+    #popular_items {
+        flex-direction: row;
+        align-items: stretch;
+    }
+
+    #cat_list {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: stretch;
+    }
+    
+    #contact_info {
+        flex-direction: row;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    #hero_caption_title {
+        font-size: 75px;
+    }
+    
+    #hero_caption_comment {
+        font-size: 50px;
+    }
+
+    #hero_two_caption_title {
+        font-size: 75px;
+    }
+    
+    #hero_two_caption_comment {
+        font-size: 50px;
+    }
+    
+    #featured_product {
+        transform: scale(1);
+        transition: transform 0.5s;
+    }
+
+    #featured_product:hover {
+        transform: scale(1.05);
+    }
+
+    .pop_prod {
+        transform: scale(1);
+        transition: transform 0.5s;
+    }
+
+    .pop_prod:hover {
+        transform: scale(1.05);
+    }
+
+    #mattress_tag {
+        font-size: 35px;
+    }
+
+    .cat__box {
+        transform: scale(1);
+        transition: transform 0.5s;
+    }
+
+    .cat__box:hover {
+        transform: scale(1.05);
+    }
+}

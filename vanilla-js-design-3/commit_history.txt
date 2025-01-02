@@ -1,0 +1,71 @@
+commit 379dd8b19449c102e33248255adc25e51512f8f1
+Author: MIKNSJ <>
+Date:   Sat Aug 10 22:21:52 2024 -0700
+
+    footer: contact, copyright, and version 1.0 + README.MD updated
+
+commit e885dc6009ef49f947ee399fd00d40850e98079e
+Author: MIKNSJ <>
+Date:   Sat Aug 10 15:20:21 2024 -0700
+
+    product section
+
+commit 8e0913aad531b303882203769fe1e6aa23a7aba5
+Author: MIKNSJ <>
+Date:   Fri Aug 9 23:43:02 2024 -0700
+
+    featured product
+
+commit c295be838a3c6dc7dc915a0a72b62d7ffc2fe6b2
+Author: MIKNSJ <>
+Date:   Thu Aug 8 23:56:05 2024 -0700
+
+    category and hero-two/standout sections
+
+commit 4b9899e00d8b3b6fce8e7601eabfac5687ba6b7e
+Author: MIKNSJ <>
+Date:   Thu Aug 8 00:20:49 2024 -0700
+
+    init search box and update favicon color
+
+commit 04c8090c520c663c66f9efd42ea1d26e736bb94b
+Author: MIKNSJ <>
+Date:   Wed Aug 7 23:17:59 2024 -0700
+
+    init hero section
+
+commit cef5031214114bbd291ad415506d7c578fd49634
+Author: MIKNSJ <>
+Date:   Wed Aug 7 14:59:22 2024 -0700
+
+    updated header: modifications to scrolling
+
+commit 83048374c71e6ba46eef502f80b3f33e26b3a2a8
+Author: MIKNSJ <>
+Date:   Wed Aug 7 10:47:11 2024 -0700
+
+    updated header: adaptive design
+
+commit 16e4d640b78153a36129e6d2a5896169b3c31353
+Author: MIKNSJ <>
+Date:   Tue Aug 6 23:23:36 2024 -0700
+
+    updated header: dropdown
+
+commit 6a31427a0e291db03699b85776cf2fa43d4803b5
+Author: MIKNSJ <>
+Date:   Mon Aug 5 23:25:26 2024 -0700
+
+    init header outline
+
+commit ae024153380e6f21ba2cc124393556bc66b8b9f8
+Author: MIKNSJ <>
+Date:   Sat Aug 3 23:38:14 2024 -0700
+
+    init files
+
+commit 1d631504ae362793d3dff7c3ce146a5efe996cbb
+Author: JSN <>
+Date:   Sat Aug 3 23:21:54 2024 -0700
+
+    Initial commit

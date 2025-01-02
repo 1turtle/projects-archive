@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+        <meta name = "format-detection" content = "telephone=no"/>
+
+        <!-- Preloaded font for potential issues across browsers -->
+        <link rel = "preconnect" href = "https://fonts.googleapis.com">
+        <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
+        <link href = "https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel = "stylesheet">
+
+        <link rel = "icon" href = "assets/favicon.ico">
+        <link rel = "stylesheet" href = "styles.css"/>
+        <script src = "script.js"></script>
+        <title> Structure </title>
+    </head>
+
+    <body>
+        <header>
+            <div id = "by-head-con01" class = "container">
+                <div id = "header" class = "header_">
+                    <div id = "brand" class = "brand_">
+                        <img src = "assets/header_chair.png" alt = "header_chair" id = "header_chair">
+                        <h1 id = "header_title" class = "header__title"> Structure </h1>
+                    </div>
+
+                    <div id = "nav_bar" class = "nav__bar">
+                        <div id = "nav_bar_options" class = "nav__bar_options">
+                            <button id = "moon_button" class = "nav__options_button">
+                                <a href = "#" id = "moon_link">
+                                    <img src = "assets/moon.png" alt = "moon" id = "moon" class = "nav__icon">
+                                </a>
+                            </button>
+                            <button id = "card_button" class = "nav__options_button">
+                                <a href = "#" id = "card_link">
+                                    <img src = "assets/shopping_cart.png" alt = "shopping_cart" id = "shopping_cart" class = "nav__icon">
+                                </a>
+                            </button>
+                            <button id = "account_button" class = "nav__options_button">
+                                <a href = "#" id = "account_link">
+                                    <img src = "assets/person.png" alt = "person" id = "person" class = "nav__icon">
+                                </a>
+                            </button>
+                        </div>
+
+                        <button onclick = "clickNavBar()" id = "nav_button" class = "nav__button">
+                            <img src = "assets/menu.png" id = "nav_button_icon" class = "nav__button">
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div id = "mn-br-con01">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "mn-search-con02" class = "container">
+                <div id = "search_box" class = "search__box">
+                    <img src = "assets/search.png" alt = "search" id = "search">
+                    <input type = "text" placeholder = "Search for products..." id = "search_input" class = "search__input"/>
+                </div>
+            </div>
+
+            <div id = "mn-br-con03">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "mn-hero-con04" class = "container">
+                <div id = hero class = "hero_"> 
+                    <img src = "assets/hero.png" alt = "hero_pic" id = "hero_pic" class = "hero__pic">
+
+                    <div id = "hero_caption" class = "hero__caption">
+                        <h1 id = "hero_caption_title" class = "hero_caption_text"> Classic Comfort </h1>
+                        <p id = "hero_caption_comment" class = "hero_caption_text"> Make home feel like home. </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id = "mn-br-con05">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "mn-feat-con06" class = "container">
+                <div id = "featured" class = "featured_">
+                    <h2 id = "featured_text"> FEATURED PRODUCT </h2>
+                    
+                    <a href = "#" id = "featured_product" class = "featured__product">
+                        <img src = "assets/mattress.png" alt = "mattress" id = "mattress" class = "featured__product_pic">
+                        <h2 id = "mattress_brand"> Revive Mattress </h2>
+                        <div id = "mattress_prices" class = "mattress__prices">
+                            <s><h4 id = "mattress_original_price"> $399.99 </h4></s>
+                            <h4 id = "mattress_sale_price"> $199.99 </h4>
+                            <h4 id = "mattress_sale_percentage"> 50% </h4>
+                        </div>
+                        <h4 id = "mattress_tag">Limited Time Offer</h4>
+                    </a>
+                </div>
+            </div>
+
+            <div id = "mn-br-con07">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "mn-popular-con08" class = "container">
+                <div id = "popular" class = "popular_">
+                    <h2 id = "popular_text"> POPULAR PRODUCTS </h2>
+                    
+                    <div id = "popular_items" class = "popular__items">
+                        <a href = "#" id = "pop_prod_01" class = "pop_prod">
+                            <img src = "assets/sofa.png" alt = "sofa" id = "sofa" class = "pop__product_pic">
+                            <h2 id = "pop_prod_01_brand"> Mason Leather Sofa </h2>
+                            <h4 id = "pop_prod_01_price"> $1794.99 </h4>
+                        </a>
+
+                        <a href = "#" id = "pop_prod_02" class = "pop_prod">
+                            <img src = "assets/desk.png" alt = "desk" id = "desk" class = "pop__product_pic">
+                            <h2 id = "pop_prod_02_brand"> Black Corner Desk </h2>
+                            <h4 id = "pop_prod_02_price"> $794.99 </h4>
+                        </a>
+
+                        <a href = "#" id = "pop_prod_03" class = "pop_prod">
+                            <img src = "assets/lamp.png" alt = "lamp" id = "lamp" class = "pop__product_pic">
+                            <h2 id = "pop_prod_03_brand"> Arc Table Lamp </h2>
+                            <h4 id = "pop_prod_03_price"> $174.99 </h4>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div id = "mn-br-con09">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "mn-cat-con10" class = "container">
+                <div id = "cat" class = "cat_"> 
+                    <h2 id = "cat_title">BROWSE BY CATEGORY</h2>
+                    
+                    <div id = "cat_list" class = "cat__list">
+                        <a href = "#" id = "cat_01" class = "cat__box">
+                            <img src = "assets/header_chair.png" alt = "cat_01_pic" id = "cat_01_pic" class = "cat__pic">
+                            <h2 id = "cat_01_title">Furniture</h2>
+                        </a>
+
+                        <a href = "#" id = "cat_02" class = "cat__box">
+                            <img src = "assets/kitchen.png" alt = "cat_02_pic" id = "cat_02_pic" class = "cat__pic">
+                            <h2 id = "cat_02_title">Kitchen</h2>
+                        </a>
+
+                        <a href = "#" id = "cat_03" class = "cat__box">
+                            <img src = "assets/light.png" alt = "cat_03_pic" id = "cat_03_pic" class = "cat__pic">
+                            <h2 id = "cat_03_title">Home Goods</h2>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div id = "mn-br-con11">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "mn-hero-two-con12" class = "container">
+                <div id = hero_two class = "hero_"> 
+                    <img src = "assets/kitchen_room.png" alt = "hero_two_pic" id = "hero_two_pic" class = "hero__two_pic">
+
+                    <div id = "hero_two_caption" class = "hero__two_caption">
+                        <h1 id = "hero_two_caption_title" class = "hero__two_caption_text"> Modern Design </h1>
+                        <p id = "hero_two_caption_comment" class = "hero__two_caption_text"> Elevate your dining
+                        experience. </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id = "mn-br-con13">
+                <div class = "barrier"></div>
+            </div>
+        </main>
+        
+        <footer>
+            <div id = "ft-br-con01">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "ft-contact-con02" class = "container">
+                <div id = "contact" class = "contact_">
+                    <h2 id = "contact_title" class = "contact__title"> CONTACT </h2>
+
+                    <div id = "contact_info" class = "contact__info">
+                        <h3 id = "company"> Structure Inc. </h2>
+                        <h4 id = "location"> 12345 Westport Street <br> Portland, Maine, 54321 </h4>
+                        <h4 id = "email"> structure@inlook.com </h5>
+                        <h4 id = "phone"> (123) 456-7890 </h5>
+                    </div>
+                </div>
+            </div>
+
+            <div id = "ft-br-con03">
+                <div class = "barrier"></div>
+            </div>
+
+            <div id = "ft-foot-con04" class = "container">
+                <div id = "footer" class = "footer_">
+                    <div id = "line_break"></div>
+
+                    <div id = "credit" class = "credit_">
+                        <p id = "copyright"> &#169 Structure Inc. 2024 </p>
+                        <a href = "https://github.com/MIKNSJ/structure" target = "_blank" rel = "noopener noreferrer" id = "source">View Source</a>
+                    </div>
+                </div>
+            </div>
+
+            <div id = "ft-br-con05">
+                <div class = "barrier"></div>
+            </div>
+        </footer>
+    </body>
+<html>
