@@ -1,0 +1,57 @@
+commit c1f3c00667afc23cdd7db825d8f52c77ed55a285
+Author: MIKNSJ <>
+Date:   Tue May 21 21:40:47 2024 -0700
+
+    at(): now checks for idx o.o.b
+
+commit ce776dc8bc9eaba944f8f3e56d1379fbfbcd569b
+Author: MIKNSJ <>
+Date:   Thu May 9 22:34:49 2024 -0700
+
+    replaced uninitialized space to be filled with dummy values: -1.
+
+commit cc507a6388dad915ec35f0c917738069ccd60b8d
+Author: MIKNSJ <>
+Date:   Thu May 2 20:33:14 2024 -0700
+
+    erase, insert, push/pop_front, at, swap made, tweaks to push/pop, and readme updated
+    
+    erase, insert, push/pop_front, at, swap made
+    tweaks to push/pop,
+    readme updated
+
+commit ca55d08525318999c5b68ca2b5f6d7aff8cadfc4
+Author: MIKNSJ <>
+Date:   Wed May 1 18:09:32 2024 -0700
+
+    reserve and pop_back init and push_back tweaked
+
+commit 994d9007b74f9bf40792ceed3c28b027c5f11d31
+Author: MIKNSJ <>
+Date:   Wed May 1 15:46:34 2024 -0700
+
+    added empty and reformatted existing functions
+
+commit 97825de7d243800d0089a8c37cf82fe761fe2dfa
+Author: MIKNSJ <>
+Date:   Tue Apr 30 22:53:10 2024 -0700
+
+    size and clear done
+
+commit 5f43b47a35ab7407475a50ffa1dd1bda5668e3c5
+Author: MIKNSJ <>
+Date:   Tue Apr 30 19:24:15 2024 -0700
+
+    renamed files, test support, and push_back made
+
+commit 1dd23680df07e3664b9e85044f804f900bdf21f3
+Author: MIKNSJ <>
+Date:   Tue Apr 30 12:03:12 2024 -0700
+
+    init files
+
+commit dd406037c8cc2c70218e9620c5659462fa8f475f
+Author: 1 <>
+Date:   Tue Apr 30 11:39:18 2024 -0700
+
+    Initial commit
