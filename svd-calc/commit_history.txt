@@ -1,0 +1,125 @@
+commit 36090bbf5a6fbeadfcac162a17c958b6655a84a7
+Author: 1 <>
+Date:   Wed May 22 20:48:35 2024 -0700
+
+    GUI support with screenshots and videos
+
+commit 4e4988e141aacd4aaaabbbec894e794ade47088b
+Author: 1 <>
+Date:   Mon Apr 15 22:17:17 2024 -0700
+
+    Update README.md
+
+commit bcfd9b4dfed6750c1298105492aa18c608ee2ec2
+Author: 1 <>
+Date:   Mon Apr 15 22:14:32 2024 -0700
+
+    added screenshots of calculator
+    
+    Add files via upload
+    
+    Rename matAcsv.png to screenshots/matAcsv.png
+
+commit ea795433a6464b1bbadeb1038b4a38d1a362d87b
+Author: MIKNSJ <>
+Date:   Mon Apr 15 22:02:57 2024 -0700
+
+    Update README.md
+    
+    readme v1.0
+
+commit e96006c1141c715fb099662e69adcb6d5657fc3b
+Author: MIKNSJ <>
+Date:   Mon Apr 15 11:23:55 2024 -0700
+
+    limit a matrix with same eigenvalues
+    
+    terminate if eigenvalues are the same
+    
+    removed zero matrix support
+
+commit 5be9973566986fcecf32f05f86a6b5eb77a50940
+Author: MIKNSJ <>
+Date:   Mon Apr 15 01:50:30 2024 -0700
+
+    calv v1.0 done
+    
+    calc v1.0 done + small edit
+
+commit afe97464c584dc966cee4767b624c7d3018067d9
+Author: MIKNSJ <>
+Date:   Sat Apr 13 19:58:48 2024 -0700
+
+    normalize done
+
+commit cb41ba320f46b74b44435462fffeaa466bee2bef
+Author: MIKNSJ <>
+Date:   Sat Apr 13 10:18:50 2024 -0700
+
+    eigenvalue support added
+
+commit 41e536c20bc74ad4d9bc30c5eeedf39eeb6fd9d2
+Author: 1 <>
+Date:   Fri Apr 12 14:20:08 2024 -0700
+
+    multiply complete and minor tweaks (#3)
+
+commit e74ce0ec624060aa108f0d1444eac5be05f2b77c
+Author: MIKNSJ <>
+Date:   Thu Apr 11 22:23:53 2024 -0700
+
+    operation.cpp init and transpose done
+
+commit 394161cd7fdf2a7e5d5b8e7af1711f5bfcd2e02b
+Author: 1 <>
+Date:   Wed Apr 10 02:03:42 2024 -0700
+
+    Delete *.o, *.exe files and .vscode/settings.json
+    
+    Delete src/svd.exe
+    
+    Delete src/test.exe
+    
+    Delete src/helper.o
+    
+    Delete src/blank.exe
+    
+    Delete src/.vscode directory
+    
+    Delete src/input.o
+    
+    Delete .vscode directory
+
+commit 3fc96ca588bb7df0ed808aac8b6331bab15b9da3
+Author: 1 <>
+Date:   Wed Apr 10 02:07:18 2024 -0700
+
+    Create .gitignore
+
+commit 7c9243a163a63a8cf446b4f010b4abee1e2d2e01
+Author: 1 <>
+Date:   Wed Apr 10 02:03:10 2024 -0700
+
+    input finished and minor tweaks (#2)
+
+commit 818f75c2c16052331094bd67093073f84dbd06b4
+Author: 1 <>
+Date:   Tue Apr 9 00:07:24 2024 -0700
+
+    construct done and input init (#1)
+
+commit 63a49ce4a0eddeb1b102dc3d4a8b204576e28a46
+Author: 1 <>
+Date:   Sun Apr 7 15:27:50 2024 -0700
+
+    svd init combined
+    
+    Delete svd.cpp
+    
+    Delete .svd.cpp.swp
+    
+    svd.cpp init3
+    
+    svd.cpp init
+    
+    Initial commit
