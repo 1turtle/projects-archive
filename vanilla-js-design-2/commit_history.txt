@@ -1,0 +1,63 @@
+commit 91b2140e64b271ddb4b826076ecd60e34745ac4f
+Author: MIKNSJ <>
+Date:   Fri Aug 2 23:01:59 2024 -0700
+
+    fixed whitespace issue on mobile
+
+commit 8d95f3e1d64b3da7fb7d23260a388ddb8e98e78a
+Author: MIKNSJ <>
+Date:   Fri Aug 2 12:24:17 2024 -0700
+
+    calc functionality
+
+commit 3bbba64741b8976274a7ddae8da4acbbcf77494e
+Author: MIKNSJ <>
+Date:   Wed Jul 31 09:46:33 2024 -0700
+
+    preload font + redundant styles removed
+
+commit d96e272a785ef70abf79df3447eeaa7e2108ac29
+Author: MIKNSJ <>
+Date:   Wed Jul 31 00:28:39 2024 -0700
+
+    adjusted screen design
+
+commit 18b0ca88bf0f29375587e082a55e551deac0e2a2
+Author: MIKNSJ <>
+Date:   Tue Jul 30 14:56:26 2024 -0700
+
+    phone layout
+    
+    fixed font spelling
+    
+    changed mq viewports
+
+commit f9d74ad4e8e22c625f6def8ea99fa15cdfca2798
+Author: MIKNSJ <>
+Date:   Tue Jul 30 00:05:43 2024 -0700
+
+    init calc layout
+
+commit 8de99cecf723a0048a9585f4582e7ea0c63b8cfe
+Author: MIKNSJ <>
+Date:   Mon Jul 29 00:17:52 2024 -0700
+
+    init buttons
+
+commit 2dadc3e9b81be831f2c844cbb150d4ed6eda77dc
+Author: MIKNSJ <>
+Date:   Sun Jul 28 10:58:53 2024 -0700
+
+    created simple static header
+
+commit 2c0312e90b26d482db876e3cae160753e4c97f8e
+Author: MIKNSJ <>
+Date:   Sat Jul 27 23:58:25 2024 -0700
+
+    init starting files
+
+commit f5fc571115e329baa62c21b29ebde45002d17def
+Author: JSN <>
+Date:   Sat Jul 27 22:56:48 2024 -0700
+
+    Initial commit
