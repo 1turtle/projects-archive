@@ -1,0 +1,41 @@
+commit 01de59a27e158a81dfef767baec959e9b7b458ec
+Author: MIKNSJ
+Date:   Sat Nov 2 00:35:34 2024 -0700
+
+    new: [appendNote, deleteNote]
+
+commit 302e45a9a52e09e623ff408a467813cf48b6cfcd
+Author: MIKNSJ
+Date:   Fri Nov 1 01:26:23 2024 -0700
+
+    {fixed: [source rt, nav_menu ani], new: [todo page routing]}
+
+commit d5b8d1c6cac13d7008c2ee284fb0107b495d45b2
+Author: MIKNSJ
+Date:   Wed Oct 30 21:18:58 2024 -0700
+
+    made a small footer
+
+commit b9b569be5b1b897431946e06a62e3791fbc249f3
+Author: MIKNSJ
+Date:   Wed Oct 30 19:29:05 2024 -0700
+
+    made a short hero section
+
+commit d5aca5e7416e6d4281458fdaf72e97a29784cfc8
+Author: MIKNSJ
+Date:   Tue Oct 29 22:11:09 2024 -0700
+
+    made a header
+
+commit 6c4573315c5689e39cd28c0ea68f99769ea81d15
+Author: MIKNSJ
+Date:   Tue Oct 29 15:34:07 2024 -0700
+
+    init files
+
+commit 1f8db02b6580aab9af05dda6d86391073f7e06c3
+Author: JSN
+Date:   Tue Oct 29 15:16:45 2024 -0700
+
+    Initial commit
