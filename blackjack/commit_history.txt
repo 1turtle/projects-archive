@@ -1,0 +1,107 @@
+commit 29c0476646a70db99a2cd7112dcd13a385d4225c
+Author: MIKNSJ <>
+Date:   Sun Jan 7 14:28:56 2024 -0800
+
+    README.md updated
+
+commit 224d6f269d9cbc030623c3ace1c4e29a66695e54
+Author: MIKNSJ <>
+Date:   Sat Jan 6 20:43:59 2024 -0800
+
+    README.md version 1.0
+
+commit 1ea71899b131eb45bb54fdff82d236fe95e694be
+Author: MIKNSJ <>
+Date:   Fri Jan 5 22:00:43 2024 -0800
+
+    removed test cards
+
+commit 7bfac801515f75f75e2e70bff409bf1c5b0dab9d
+Author: MIKNSJ <>
+Date:   Fri Jan 5 20:07:35 2024 -0800
+
+    more bug files and condensed print statements, now less detailed
+
+commit 5ba3db2b9a58f89254faea897c88abbf2db2d8e6
+Author: NSJ <>
+Date:   Fri Jan 5 09:12:07 2024 -0800
+
+    Update README.md
+
+commit bd8a1f81c5da7043868ef99ece4da1043fa992b7
+Author: MIKNSJ <>
+Date:   Fri Jan 5 09:05:34 2024 -0800
+
+    wip bug fixes for split cases and rough draft documentation added to the cloud
+
+commit 3525a9f95bb9dda438d6e383912ade4d091c0205
+Author: MIKNSJ <>
+Date:   Fri Jan 5 01:34:22 2024 -0800
+
+    bug fixes for naive case and rough draft documentation added
+
+commit 38fbf3f6ea0613e824580d336b9bb7b964ee120f
+Author: MIKNSJ <>
+Date:   Tue Jan 2 20:27:55 2024 -0800
+
+    swapping should happen once
+
+commit 745905dae866ffcd0958639030b3fd8b4022011d
+Author: MIKNSJ <>
+Date:   Mon Jan 1 23:11:33 2024 -0800
+
+    game func complete
+
+commit e7cec5704b781aac1cb5782fb74c3f272758a037
+Author: MIKNSJ <>
+Date:   Mon Jan 1 20:44:24 2024 -0800
+
+    game func development
+
+commit 855183c5f394360dba737bc7052f48d6001a4aab
+Author: MIKNSJ <>
+Date:   Mon Jan 1 16:31:18 2024 -0800
+
+    all basic features added
+
+commit 67be1293dce0747d7c7ba957b6455fdc8969c4e7
+Author: MIKNSJ <>
+Date:   Mon Jan 1 12:41:23 2024 -0800
+
+    basic features added
+
+commit 68161ff81265d1205234fdb31de3e9511b2e2799
+Author: MIKNSJ <>
+Date:   Mon Jan 1 11:04:16 2024 -0800
+
+    tests added
+
+commit d2db47818cfb244e78d112a9bb89109b80844214
+Author: MIKNSJ <>
+Date:   Mon Jan 1 09:28:20 2024 -0800
+
+    first test
+
+commit 33b869deb31bb79e07c524a91c15e6c87a77fcb5
+Author: MIKNSJ <>
+Date:   Mon Jan 1 00:51:36 2024 -0800
+
+    basic features added
+
+commit 50bdf54299f312a14890732ad619e09d12b4a258
+Author: MIKNSJ <>
+Date:   Sun Dec 31 13:36:09 2023 -0800
+
+    init test project
+
+commit 3b0d58c517ecabcc7d5d534c69253e85eb6a2a4b
+Author: MIKNSJ <>
+Date:   Sun Dec 31 13:35:12 2023 -0800
+
+    init project
+
+commit bdba6e4648f2c67e19a62b97653d8899d0b4ef79
+Author: NSJ <>
+Date:   Sun Dec 31 00:18:24 2023 -0800
+
+    Initial commit
