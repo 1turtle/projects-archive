@@ -1,0 +1,69 @@
+commit a6b8397c3dfb399957fee371d52547852360b5f2
+Author: 1 <>
+Date:   Sun May 19 14:29:30 2024 -0700
+
+    Update README.md and screenshots
+    
+    Add files via upload
+    Update README.md
+    Rename ms-demo-2.png to screenshots/ms-demo-2.png
+    Rename ms-demo-1.png to screenshots/ms-demo-1.pnh
+    Add files via upload
+    screenshots added
+
+commit 68ccd552ac4b0cb7be0129b4bc4679e4f25aba35
+Author: MIKNSJ <>
+Date:   Sun May 19 14:27:36 2024 -0700
+
+    minor refactors and bug fixes
+    
+    minor refactors and bug fixes
+    revealed mine on loss shows ! symbol
+
+commit 25185120f91e14fa4c8835c09c12fe7746dbebed
+Author: MIKNSJ <>
+Date:   Sun May 19 13:52:27 2024 -0700
+
+    adjacent neighbors and flag system done
+
+commit 77f199ade18e4c65963829e7b4bb51e23aea8437
+Author: MIKNSJ <>
+Date:   Sat May 18 22:53:19 2024 -0700
+
+    draw_board modified, win/end state, board updates after turn
+
+commit 405cd27995cb0ab4eaed1c51f2ced58364f482ed
+Author: MIKNSJ <>
+Date:   Fri May 17 19:44:19 2024 -0700
+
+    entries replaced with cell objects and numbered cells support
+
+commit ffc90ac873c5032af046cb2b016838d6a6369e62
+Author: MIKNSJ <>
+Date:   Fri May 17 13:55:11 2024 -0700
+
+    updated board design
+
+commit 3cf0f662b525a4d00c3260bd637103067df1b62c
+Author: MIKNSJ <>
+Date:   Thu May 16 23:59:39 2024 -0700
+
+    generate_mines() init and completed for three difficulties
+
+commit 01b3b1888078df03194eef80c53f39f13afce2f3
+Author: MIKNSJ <>
+Date:   Thu May 16 20:23:36 2024 -0700
+
+    draw_board(): print board init and complete
+
+commit 5fc119cfcfffeb2189c10609cbc0bca99feaef98
+Author: MIKNSJ <>
+Date:   Thu May 16 18:35:59 2024 -0700
+
+    files init
+
+commit 48aabf44077b58fb20bef76b5bfde7ca37a01b17
+Author: 1 <>
+Date:   Thu May 16 17:55:32 2024 -0700
+
+    Initial commit
