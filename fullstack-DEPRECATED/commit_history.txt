@@ -1,0 +1,77 @@
+commit 1c2a74f08733a4f0e13126f73e480fa6ad02d490
+Author: MIKNSJ <>
+Date:   Wed Nov 6 16:53:36 2024 -0800
+
+    minor validation to forms
+
+commit 7fc7aba1b45133ffa9d0f63225522ad25dd9d8c8
+Author: MIKNSJ <>
+Date:   Sun Sep 29 19:02:46 2024 -0700
+
+    styling home page part2
+
+commit 758aa4c13f0ad6d5e45aaff6fba5caa28196c8a1
+Author: MIKNSJ <>
+Date:   Sun Sep 29 02:28:27 2024 -0700
+
+    styling home page
+
+commit c09e005c966363fd5c4a24192ea1768cc5225fe4
+Author: MIKNSJ <>
+Date:   Sat Sep 28 20:23:33 2024 -0700
+
+    styling login page
+
+commit ac5d904e189afa10100d43b34c917593c38e657e
+Author: MIKNSJ <>
+Date:   Sat Sep 28 16:36:26 2024 -0700
+
+    styling new page
+
+commit ac3ba760aaa9be796f027f4205c9534ed3b894e5
+Author: MIKNSJ <>
+Date:   Sat Sep 28 14:09:16 2024 -0700
+
+    styling edit page
+
+commit 91a23c510ec99f781c2a6d9d637c9a5e39363fc6
+Author: MIKNSJ <>
+Date:   Sat Sep 28 00:45:20 2024 -0700
+
+    styling listing page part 1
+
+commit b0cb2e7706e3cab84eef6868b445a31a83d903a3
+Author: MIKNSJ <>
+Date:   Fri Sep 27 21:49:01 2024 -0700
+
+    styling marketplace page
+
+commit 7dea1fc226222f18b05dd573b24b4740477a0a9a
+Author: MIKNSJ <>
+Date:   Sun Sep 22 22:57:43 2024 -0700
+
+    nav bar and footer outline
+
+commit 7cdd99603dccab93dc620f44dc0bbe3d34c46849
+Author: MIKNSJ <>
+Date:   Sun Sep 22 00:13:50 2024 -0700
+
+    basic crud func
+
+commit cc5a0a514566d3ac80ac50fef806291102aee50d
+Author: MIKNSJ <>
+Date:   Sat Sep 21 19:06:46 2024 -0700
+
+    basic index and show outline
+
+commit 54bc373186c58b450de4192e3ac13e6b17873e2c
+Author: MIKNSJ <>
+Date:   Sat Sep 21 01:49:35 2024 -0700
+
+    init server
+
+commit faecaa84070104718fc56c33cb6b8f99528a3e0a
+Author: JSN <>
+Date:   Fri Sep 20 18:15:11 2024 -0700
+
+    Initial commit
