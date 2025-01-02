@@ -1,0 +1,133 @@
+commit d48426681afbf89b34d60707ce7608f878a7afe6
+Author: MIKNSJ <>
+Date:   Tue Apr 23 22:12:31 2024 -0700
+
+    readme updated text and added screenshots and video
+    
+    readme added screenshots and video
+    
+    Add files via upload
+    
+    Update README.md
+    
+    update README.md on setup installation instruction
+
+commit 2b221a1b48a1c969a60423f06c44ef5f8ff273dc
+Author: MIKNSJ <>
+Date:   Tue Apr 23 20:58:42 2024 -0700
+
+    readme updated without photos and vid
+
+commit 1533716e88a9ab69a0e97cf1522bc23a56496168
+Author: MIKNSJ <>
+Date:   Tue Apr 23 18:00:48 2024 -0700
+
+    back to menu bind, enemy perks tweaked
+
+commit 185b374a76d82e0a0f1ba24503378f731fd5a2f5
+Author: MIKNSJ <>
+Date:   Tue Apr 23 17:46:55 2024 -0700
+
+    sounds and music added
+
+commit 2c98695a0c716c14b3f14ce2ef71f3940d57bc84
+Author: MIKNSJ <>
+Date:   Tue Apr 23 15:59:39 2024 -0700
+
+    player and enemy sprites init and oob adjustments
+
+commit b7e1c90e7d1aa1791f2f377fce06aef8daf1a262
+Author: MIKNSJ <>
+Date:   Tue Apr 23 01:16:51 2024 -0700
+
+    main menu created, restart/quit/pause/exit func, ui tweaks
+
+commit 301a7453fd3ac3c155b4a0c4c0cc8ecd9703e9be
+Author: MIKNSJ <>
+Date:   Mon Apr 22 19:16:34 2024 -0700
+
+    pause system made
+
+commit 5b57551e7e4e98fee2f90cc2354c9f34b2012bcd
+Merge: 9793496 411a9ea
+Author: 1 <>
+Date:   Sun Apr 21 22:09:10 2024 -0700
+
+    Merge pull request #2 from MIKNSJ/refactor
+    
+    120fps adjustment and enemy spawn tweaked
+
+commit 411a9ead030c77683359c37650186fd679173e6e
+Author: MIKNSJ <>
+Date:   Sun Apr 21 22:08:33 2024 -0700
+
+    120fps adjustment and enemy spawn tweaked
+
+commit 979349654d5f4059dcaae3ea1df30bd9d9f041c1
+Merge: 6580b49 976dcb1
+Author: 1 <>
+Date:   Sun Apr 21 17:51:50 2024 -0700
+
+    Merge pull request #1 from MIKNSJ/refactor
+    
+    refactored code
+
+commit 976dcb126490aefd4149bcecae3bef1919e94536
+Author: MIKNSJ <>
+Date:   Sun Apr 21 17:50:56 2024 -0700
+
+    refactored code
+
+commit 6580b49a29c76ecdd8931c4e6543bd18afb1e220
+Author: MIKNSJ <>
+Date:   Sun Apr 21 15:02:43 2024 -0700
+
+    bullet projectiles changed to circle
+
+commit 02b34f229f932c43ed331efd879b37f4e5e94213
+Author: MIKNSJ <>
+Date:   Sat Apr 20 19:57:57 2024 -0700
+
+    enemy pathing improved
+
+commit ecf8eea745318be0843706eda26d8f394335653e
+Author: MIKNSJ <>
+Date:   Fri Apr 19 23:04:51 2024 -0700
+
+    enemy, fps, and shoot count init
+
+commit 12a233ca8ae75521f79f1c2cea2add8785550646
+Author: MIKNSJ <>
+Date:   Thu Apr 18 21:46:16 2024 -0700
+
+    projectiles init
+
+commit 9bdc904e53dd4084f8f23741571b053714bb58c4
+Author: MIKNSJ <>
+Date:   Wed Apr 17 19:13:22 2024 -0700
+
+    h_bar init
+
+commit f91b94c220050adaed8b75b52c8757f1be982382
+Author: MIKNSJ <>
+Date:   Wed Apr 17 18:30:49 2024 -0700
+
+    reinited
+
+commit 809373eef738a656218fa6fdb832b9039366863f
+Author: MIKNSJ <>
+Date:   Fri Apr 5 22:14:28 2024 -0700
+
+    input init
+
+commit 56d39032bf0085371332394ff2a5bebaad35a460
+Author: MIKNSJ <>
+Date:   Fri Apr 5 20:09:09 2024 -0700
+
+    apoc and sfml init
+
+commit b957c89de5668bc8163c072a7e09f8c1bf2124a2
+Author: 1 <>
+Date:   Fri Apr 5 20:05:34 2024 -0700
+
+    Initial commit
