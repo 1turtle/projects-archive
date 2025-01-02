@@ -1,0 +1,61 @@
+commit 2aeeeee4d2ff09d009f714e9076152d201d8ef0e
+Author: MIKNSJ <>
+Date:   Sun Sep 1 19:44:18 2024 -0700
+
+    sql integration: only FastAPI/docs support
+    
+    squashed: 2 commits
+
+commit 8c0a7a89674b84fd690f0bbb7b9711cc17b72d06
+Author: MIKNSJ <>
+Date:   Sun Sep 1 00:08:05 2024 -0700
+
+    init user auth + jwt
+
+commit bb3508cb89ec85077d0cf32e6c9f222e98414f8e
+Author: MIKNSJ <>
+Date:   Fri Aug 30 21:32:21 2024 -0700
+
+    init account page design
+
+commit 9c5ea511a0e33f2ab8d6ee1547853126d10f283c
+Author: MIKNSJ <>
+Date:   Sun Aug 25 23:43:54 2024 -0700
+
+    added screenshots and video
+
+commit defaa69dadc2cafb4bbd080c60deb4c2fc1549e8
+Author: MIKNSJ <>
+Date:   Sun Aug 25 15:09:37 2024 -0700
+
+    crud w/o SQL v1.0
+
+commit 382625bb5cfc6395bb2d3480df7e88d70f231ba8
+Author: MIKNSJ <>
+Date:   Sun Aug 25 12:52:37 2024 -0700
+
+    delete functionality
+
+commit 00a6589f17537852aff65092f8d5ddc6829a0c87
+Author: MIKNSJ <>
+Date:   Sun Aug 25 01:29:40 2024 -0700
+
+    init jinja2 support
+
+commit 85074a300fcd5a2e8237912d9ac2f3f344fcea20
+Author: MIKNSJ <>
+Date:   Sat Aug 24 21:31:37 2024 -0700
+
+    init basic crud template
+
+commit 3541f9b8018214d91cc9312a911882f52c6eac36
+Author: MIKNSJ <>
+Date:   Sat Aug 24 16:33:19 2024 -0700
+
+    init FastAPI files
+
+commit 1f116317637d258298b3581e2d3d2603c05b0327
+Author: JSN <>
+Date:   Fri Aug 23 21:54:27 2024 -0700
+
+    Initial commit
