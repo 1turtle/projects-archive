@@ -1,0 +1,310 @@
+commit 8659c17a7cbd06014debf02a105292f80b3aec6b
+Author: MIKNSJ <>
+Date:   Wed Aug 21 14:19:10 2024 -0700
+
+    minor adjustments + scrape: casetify
+
+commit 777651c8bfd0842e3ae299eabe2ab569be2e2663
+Author: MIKNSJ <>
+Date:   Sat Dec 23 15:34:22 2023 -0800
+
+    refactored v2.0
+
+commit 67535d78473e2c75b8fae490c71815f638d6ef2f
+Author: MIKNSJ <>
+Date:   Sat Dec 23 15:30:54 2023 -0800
+
+    refactored
+
+commit 3efcddb5ed614a85601a2b19530f16b11668af18
+Merge: 81d7102 99a18aa
+Author: MIKNSJ <>
+Date:   Sat Dec 23 15:17:54 2023 -0800
+
+    grocery added
+
+commit 81d7102875f305cac93d429b232ff54b243bb1e2
+Merge: d213c0e 1776359
+Author: MIKNSJ <>
+Date:   Sat Dec 23 15:16:31 2023 -0800
+
+    vgp added
+
+commit d213c0e53106d00fc2b2455eef61cbcebcc12dd8
+Merge: 5dbaa4a 4421771
+Author: MIKNSJ <>
+Date:   Sat Dec 23 15:13:00 2023 -0800
+
+    estate added
+
+commit 5dbaa4a4a513d1b463b675a12e81fa0360572ab2
+Merge: 614a6b7 18bdad1
+Author: MIKNSJ <>
+Date:   Sat Dec 23 15:05:53 2023 -0800
+
+    web_scrape added
+
+commit 614a6b7050efe0161e71ce4d389bc7b0eb350271
+Author: NSJ <>
+Date:   Sat Dec 23 14:53:53 2023 -0800
+
+    Initial commit
+
+commit 18bdad133f369af0a28f1af4b2489fdce1bb0f00
+Author: NSJ <>
+Date:   Sat Dec 23 13:18:55 2023 -0800
+
+    Delete test.md
+
+commit 48617bc303ce21571851771f021ab15303e30180
+Author: NSJ <>
+Date:   Sat Dec 23 13:18:42 2023 -0800
+
+    Update README.md
+
+commit 46d7987445121ca714128fc07083e81bb0a3e355
+Author: greenturtledev <>
+Date:   Thu Aug 10 22:31:05 2023 -0700
+
+    test selenium support
+
+commit 99a18aae606153393f1b8a477d73119d4c6ca91c
+Author: greenturtledev <>
+Date:   Thu Aug 10 22:22:54 2023 -0700
+
+    costco support
+
+commit ef36c3d8dccc35d5fdda579c9a864fadcb8f7c6b
+Author: greenturtledev <>
+Date:   Thu Aug 10 17:54:26 2023 -0700
+
+    costco update
+
+commit 4421771ed58a634b760456154acc4119b050f2d2
+Merge: a9e7c88 6668c86
+Author: greenturtledev <>
+Date:   Thu Aug 10 16:59:20 2023 -0700
+
+    Merge branch 'main' of https://github.com/greenturtledev/estate-tracker
+
+commit a9e7c88812dd801b74a97f6008f8ed2d1e11ff5e
+Author: greenturtledev <>
+Date:   Thu Aug 10 16:58:47 2023 -0700
+
+    notes updated
+
+commit 698cfaefb0eff2bb8021e2a82214984a6bafaf61
+Author: greenturtledev <>
+Date:   Thu Aug 10 16:55:25 2023 -0700
+
+    test and costco files init
+
+commit 9315f6d7537eb696ea368c376bfebb489ceab11f
+Author: greenturtledev <>
+Date:   Wed Aug 9 23:40:45 2023 -0700
+
+    vons init and log/issue update
+
+commit 15c3017dd85ac3d45bde38bf5261cbf76292516b
+Author: greenturtledev <>
+Date:   Wed Aug 9 22:38:19 2023 -0700
+
+    log update
+
+commit 6668c8618182744f5d79003c1fd97379e51d1674
+Author: turtle <>
+Date:   Wed Aug 9 22:37:38 2023 -0700
+
+    Update web.py
+
+commit 19d462016bf9930dff49c56d0a22126348b53099
+Author: turtle <>
+Date:   Wed Aug 9 22:37:21 2023 -0700
+
+    Update web.py
+
+commit 8618621150577c6ff2ae557839acd0d13bcee807
+Author: greenturtledev <>
+Date:   Wed Aug 9 22:36:45 2023 -0700
+
+    working
+
+commit 5315a7208df03cdba9e34dac4e291eba6e0050bc
+Author: greenturtledev <>
+Date:   Wed Aug 9 22:24:12 2023 -0700
+
+    init Ralphs files
+
+commit 67a79d0f4df69e3ebe9d1937f9ab0f05f83bd97f
+Author: turtle <>
+Date:   Wed Aug 9 21:50:10 2023 -0700
+
+    Initial commit
+
+commit 61e2058cf94f2e7aea9001db6c0896edfbbb256d
+Author: greenturtledev <>
+Date:   Sun Aug 6 21:18:31 2023 -0700
+
+    update to zillow files
+
+commit 248ec28b6b06df7f62d7794d7f4da6ad1b5603fd
+Author: greenturtledev <>
+Date:   Sun Aug 6 21:16:10 2023 -0700
+
+    hotpads search support
+
+commit 55869e390ad85f708ef85359ddd9055edcdacb7a
+Author: greenturtledev <>
+Date:   Sun Aug 6 19:51:24 2023 -0700
+
+    starting hotpads support, init
+
+commit c4dd1d943865bdc2e1490833b2d4e11d65a92efc
+Author: greenturtledev <>
+Date:   Sun Aug 6 19:01:03 2023 -0700
+
+    log and issues tab updated
+
+commit a4f59bb5919c74259a603ca1411ae72e85949f0c
+Author: greenturtledev <>
+Date:   Sun Aug 6 18:57:10 2023 -0700
+
+    removed chrome support, only firefox and ability to search
+
+commit 2cd6a0d34ec84023244cdcb0fc615f918e3c5001
+Author: greenturtledev <>
+Date:   Mon Jul 31 00:33:07 2023 -0700
+
+    workaround
+
+commit 1910df7f2f19fa9f3cf36ccbe8ba85ce861550a1
+Author: greenturtledev <>
+Date:   Mon Jul 31 00:22:34 2023 -0700
+
+    webdrive init
+
+commit 70fe20b2a529d5dfe2b1369fa8beb9fb5693e4a6
+Author: greenturtledev <>
+Date:   Sun Jul 30 21:51:42 2023 -0700
+
+    init zillow files
+
+commit 6a4441f97126129f1d2b4c1bd0d93c623708f768
+Author: greenturtledev <>
+Date:   Sun Jul 30 21:07:05 2023 -0700
+
+    updated README
+
+commit 49222cd2efa8401401a9c27ea375d9da1bb924d3
+Author: turtle <>
+Date:   Sun Jul 30 20:58:13 2023 -0700
+
+    Initial commit
+
+commit 17763591f6affa8855bba709fcf6776a91342f53
+Author: greenturtledev <>
+Date:   Sun Jul 30 20:16:55 2023 -0700
+
+    update updatelog
+
+commit 010618d469795d63100eed9174638515b3d010a5
+Author: greenturtledev <>
+Date:   Sun Jul 30 20:16:03 2023 -0700
+
+    update updatelog
+
+commit 3972bbee2f0f58cf941632d56c88adc9a5344371
+Author: greenturtledev <>
+Date:   Sun Jul 30 20:09:57 2023 -0700
+
+    added Firefox browser support
+
+commit 76aa1928be22ec061664fcad53f78d5798ba69e0
+Author: greenturtledev <>
+Date:   Fri Jul 28 23:11:41 2023 -0700
+
+    README.md updated
+
+commit 7bc90311d41cd598ca0a2a1e3fa87ed968dd6f03
+Author: greenturtledev <>
+Date:   Fri Jul 28 23:09:45 2023 -0700
+
+    updated updatelog.md
+
+commit c809bf27d10c161825bc909a29be841d0b2d5163
+Author: greenturtledev <>
+Date:   Fri Jul 28 23:08:24 2023 -0700
+
+    added the ability to view and labeled next (week's) games
+
+commit cc89a575399bc3aee3ec6fdaba08e7a068ccc31d
+Author: greenturtledev <>
+Date:   Fri Jul 28 02:27:06 2023 -0700
+
+    updated updatedlog
+
+commit 3e1e88a3ef8bd6dff433706053c822118698c50e
+Author: greenturtledev <>
+Date:   Fri Jul 28 02:23:14 2023 -0700
+
+    Initial Epic Games support added to vgp.
+
+commit 7a5e80b3e8802a1124f3471df8dde0f1bce1d30f
+Author: greenturtledev <>
+Date:   Thu Jul 27 20:20:20 2023 -0700
+
+    vgpconsole.py program has been initalized
+
+commit 6e176172622a42207f6d7db150cc03ad89c42627
+Author: greenturtledev <>
+Date:   Thu Jul 27 16:43:00 2023 -0700
+
+    An updatelog file has been created.
+
+commit 401e26d61067d3ad25bfcbc43bb4f843c8b306f3
+Author: turtle <>
+Date:   Thu Jul 27 16:39:29 2023 -0700
+
+    Initial commit
+
+commit a8d35548ece6f5da7327cae2bd8d61837cd5a3bc
+Author: greenturtledev <>
+Date:   Thu Jul 27 16:38:58 2023 -0700
+
+    Update test.md
+
+commit cf066f7e62475409c9af2048ccfaee75ba6bbe3e
+Author: greenturtledev <>
+Date:   Thu Jul 27 15:52:18 2023 -0700
+
+    Update test.md
+
+commit 739b10d382b9793ccbe55e4228f4398a433a184a
+Author: greenturtledev <>
+Date:   Thu Jul 27 15:46:47 2023 -0700
+
+    Update test.md
+
+commit 49682c701ff227610524e63802354547a18b617a
+Author: greenturtledev <>
+Date:   Thu Jul 27 15:40:34 2023 -0700
+
+    Update test.md
+
+commit 1775fc3acf9dbe61def28b88feb39fd347d6bc92
+Author: greenturtledev <>
+Date:   Thu Jul 27 15:27:39 2023 -0700
+
+    Update test.md
+
+commit 7011e0b5525946242f4523fd1b278330e236b90a
+Author: greenturtledev <>
+Date:   Thu Jul 27 15:07:41 2023 -0700
+
+    Create test.md
+
+commit 316472a088ac50dc1e35b07ee6bc2f666ca62d87
+Author: turtle <>
+Date:   Thu Jul 27 15:06:00 2023 -0700
+
+    Initial commit
