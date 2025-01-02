@@ -1,0 +1,73 @@
+commit be886e8eb752b205f51f2a03f4f816d51c9f1eef
+Author: MIKNSJ <>
+Date:   Fri Jul 26 22:41:04 2024 -0700
+
+    mccraft version 1.0
+
+commit 5b419130b796b2e4045627218c71636bd8642ec3
+Author: MIKNSJ <>
+Date:   Fri Jul 26 20:31:48 2024 -0700
+
+    takeout section
+
+commit 94fe75db99b1a02099ef5474e5dc745b7b646909
+Author: MIKNSJ <>
+Date:   Fri Jul 26 16:29:46 2024 -0700
+
+    menu section
+
+commit 3cd09ad783ede1464f040a8a712827881b2f4c72
+Author: MIKNSJ <>
+Date:   Fri Jul 26 00:00:40 2024 -0700
+
+    about section done
+
+commit 5d844f7177362897c16f25623d82e17d653784a0
+Author: MIKNSJ <>
+Date:   Tue Jul 23 20:24:13 2024 -0700
+
+    created hero section
+
+commit 09c4aae7471d068c0b0ae0763b81b72273e4a27f
+Author: MIKNSJ <>
+Date:   Fri Jul 19 19:36:41 2024 -0700
+
+    improvements to header
+
+commit f309a481d25f63f0b7687b16103ae5b3e2f73303
+Author: MIKNSJ <>
+Date:   Fri Jul 19 09:30:46 2024 -0700
+
+    check mobile hard swipe on sticky header
+    
+    updated z-index
+    
+    trying overscroll
+    
+    try absolute without relative
+    
+    small refactor to include .nav_menu
+
+commit a44a499f967acd4642ca9bd24f229a3036a8eede
+Author: MIKNSJ <>
+Date:   Thu Jul 18 23:30:14 2024 -0700
+
+    header follows when scrollings
+
+commit 1b2fbabea9b554f532d731e90167bc8d9d584943
+Author: MIKNSJ <>
+Date:   Wed Jul 17 23:07:52 2024 -0700
+
+    init header outline
+
+commit a3288cf980c8a259cff6080c76105061f5084c94
+Author: MIKNSJ <>
+Date:   Wed Jul 17 10:38:26 2024 -0700
+
+    init files
+
+commit 672d8c4c46d668108cb1611747a8b72fbb20673f
+Author: JSN <>
+Date:   Tue Jul 16 22:01:52 2024 -0700
+
+    Initial commit
