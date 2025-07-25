@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <meta name = "viewport", content="width=device-width, initial-scale=1.0">
+        <meta name = "format-detection", content = "telephone=no"/>
+
+        <!-- <link rel = "icon", href = "assets/favicon.ico"> -->
+        <link rel = "preconnect" href="https://fonts.googleapis.com">
+        <link rel = "preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href = "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+        <link rel = "stylesheet", href = "styles.css"/>
+        <script src = "script.js"></script>
+        <title> Portfolio Template </title>
+    </head>
+
+    <body>
+        <header>
+            <div id="nav_con" class = "container">
+                <nav class = "nav_bar">
+                    <!--img src = "assets/logo.png", alt = "profile_logo", id = "logo_00"-->
+                    <h2 id = "logo_00"> First Last </h2>
+
+                    <div class = "dropdown">
+                        <button onclick = "clickMenuButton()", class = "nav_button">
+                            <img src = "assets/nav_icon.png", alt = "nav_icon", class = "nav_button", id = "nav_icon">
+                        </button>
+
+                        <nav id = "dd_menu", class = "menu">
+                            <a href = "#about", id = "menu_01", class = "menu_options"> ABOUT </a>
+                            <a href = "#works", id = "menu_02", class = "menu_options"> WORKS </a>
+                            <a href = "#contact", id = "menu_03", class = "menu_options"> CONTACT </a>
+                        </nav>
+                    </div>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <div id="br_con_01" class = "container"> 
+                <div class = "barrier"></div>
+            </div>
+
+            <div id="about_con" class = "container">
+                <div id = "about">
+                    <img src = "assets/question_mark.png", alt = "profile_logo", id = "logo_01">
+
+                    <section>
+                        <h2> Hi, I am First Last. </h2>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+							Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+							Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+							Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        </p>
+                    </section>
+                </div>
+            </div>
+
+            <div id="br_con_02" class = "container"> 
+                <div class = "barrier"></div>
+            </div>
+
+            <div id="exp_con" class = "container">
+                <div id = "experience">
+                    <h2 class = "sec_title"> EXPERIENCE </h2>
+
+                    <section>
+                        <div id = "exp_menu">
+                            <div id = "exp_01", class = "exp_box">
+                                <p class = "role"> Role </p>
+                                <p class = "location"> Location </p>
+                                <p class = "date"> Year </p>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+
+            <div id="br_con_03" class = "container"> 
+                <div class = "barrier"></div>
+            </div>
+
+            <div id="works_con" class = container>
+                <div id = "works">
+                    <h2 class = "sec_title"> FEATURED WORKS </h2>
+
+                    <section>
+                        <div id = "work_menu">
+                            <!-- NOTE: Images must be in the dimensions 1918 x 990 pixels before inserting for proper alignment. -->
+                            <div id = "work_01", class = "work_box">
+                                <img src = "assets/question_mark.png", alt = "question_mark", id = "question_mark_1", class = "work_img">
+                                <p class = "work_tools">Tech Stack</p>
+                                <a href = "#", target="_blank", rel="noopener noreferrer", class = "work_title">Project 1</a>
+                            </div>
+
+                            <div id = "work_02", class = "work_box">
+                                <img src = "assets/question_mark.png", alt = "question_mark", id = "question_mark_2", class = "work_img">
+                                <p class = "work_tools">Tech Stack</p>
+                                <a href="#", target="_blank", rel="noopener noreferrer", class = "work_title">Project 2</a>
+                            </div>
+
+                            <div id = "work_03", class = "work_box">
+                                <img src = "assets/question_mark.png", alt = "question_mark", id = "question_mark_3", class = "work_img">
+                                <p class = "work_tools">Tech Stack</p>
+                                <a href ="#", target="_blank", rel="noopener noreferrer", class = "work_title">Project 3</a>
+                            </div>
+
+                            <div id = "work_04", class = "work_box">
+                                <img src = "assets/question_mark.png", alt = "question_mark", id = "question_mark_4", class = "work_img">
+                                <p class = "work_tools">Tech Stack</p>
+                                <a href = "#", target="_blank", rel="noopener noreferrer", class = "work_title">Project 4</a>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <button class = "work_button">
+                        <a href = "#", target="_blank", rel="noopener noreferrer", class = "work_link">BROWSE MORE</a>
+                    </button>
+                </div>
+            </div>
+
+            <div id="br_con_04" class = "container"> 
+                <div class = "barrier"></div>
+            </div>
+
+            <div id="contact_con" class = "container">
+                <div id = "contact">
+                    <h2 class = "sec_title"> CONTACT </h2>
+                    
+                    <div class = "container"> 
+                        <div class = "barrier"></div>
+                    </div>
+
+                    <section>
+                        <div id = "contact_list">
+                            <div id = "basic_info">
+                                <p id = "email"> Email: user@test.com </p>
+                                <p id = "phone"> Phone: (123) 456-7890 </p>
+                            </div>
+
+                            <div id = "socials">
+                                <nav>
+                                    <a href = "#",
+                                        target = "_blank", rel = "noopener noreferrer"><img src = "assets/facebook.png", alt = "fb_icon", class = "s_logo", id = "fb_icon"></a>
+                                    <a href =
+                                        "#",
+                                        target="_blank", rel="noopener noreferrer"><img src = "assets/linkedin.png", alt = "li_icon", class = "s_logo", id = "li_icon"></a>
+                                    <a href = "#", target="_blank", rel="noopener noreferrer"><img src = "assets/github.png", alt = "gh_icon", class = "s_logo", id = "gh_icon"></a>
+                                    <a href = "#",
+                                        target="_blank", rel="noopener noreferrer"><img src = "assets/youtube.png", alt = "yt_icon", class = "s_logo", id = "yt_icon"></a>
+                                </nav>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div id="br_con_05" class = "container"> 
+                <div class = "barrier"></div>
+            </div>
+                    
+            <div id="copy_con" class = "container">
+                <div id = "copyright">
+                    <p id = "c_name"> &copy <span id="c_year">2025</span> First Last</p>
+                    <a href = "#", target="_blank", rel="noopener noreferrer", id = "source"> View Source </a>
+                </div>
+            </div>
+
+            <div id="br_con_06" class = "container"> 
+                <div id = "last_barrier" class = "barrier"></div>
+            </div>
+        </footer>
+    </body>
+</html>
