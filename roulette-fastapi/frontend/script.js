@@ -49,7 +49,7 @@ img.style.width = "50px";
 img.style.height = "50px";
 brand.appendChild(img);
 var h1 = document.createElement("h1");
-h1.innerText = "Roulette";
+h1.innerText = "ROULETTE";
 h1.style.color = "white";
 brand.appendChild(h1);
 
@@ -138,13 +138,13 @@ var copyright = document.querySelector("#copyright");
 var p = document.createElement("p");
 var copy_unicode = "\u00A9";
 p.style.color = "white";
-p.innerText = copy_unicode + " MIKNSJ GRAND 2024";
+p.innerText = copy_unicode + " TURTLE RESORTS 2024";
 copyright.appendChild(p);
 
 var a = document.createElement("a");
 a.innerText = "VIEW SOURCE";
 a.id = "source_link";
-a.href = "https://github.com/MIKNSJ/roulette";
+a.href = "https://github.com/1turtle/projects-archive/tree/master/roulette-fastapi";
 a.target = "_blank";
 a.rel = "noopener noreferrer";
 a.style.textDecoration = "none";
@@ -860,8 +860,10 @@ async function determineWinner(expectedColor, actualColor) {
         currentChips+=newChips; user_chips_count.innerText = currentChips.toString();
         won_audio.play();
     } else {
+        /*
         currentChips-=currentBet;
         user_chips_count.innerText = currentChips.toString();
+        */
         lose_audio.play();
     }
 
