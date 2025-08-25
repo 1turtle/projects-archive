@@ -133,11 +133,15 @@ header {
     gap: 20px;
 }
 
+#about_text {
+    flex: 1;
+}
+
 #about section p {
     text-indent: 25px;
 }
 
-#experience {
+#education, #experience {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -150,17 +154,17 @@ header {
     text-decoration: underline;
 }
 
-#exp_menu {
+#edu_menu, #exp_menu {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.role {
+.major, .role {
     font-size: 23px;
 }
 
-.location {
+.university, .company {
     font-size: 20px;
 }
 
@@ -168,7 +172,7 @@ header {
     font-size: 17px;
 }
 
-.exp_box {
+.edu_box, .exp_box {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -176,6 +180,35 @@ header {
     background-color: #202020;
     border-radius: 25px;
     box-shadow: 1px 1px 3px 1px rgba(0,0,0,1);
+}
+
+#certs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    /*padding: 0 5% 0 5%;*/
+}
+
+#certs_menu {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.cert_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cert_img {
+    width: 50%;
+    max-width: 340px;
+}
+
+.cert_text {
+    font-size: 18px;
 }
 
 #works {
@@ -375,6 +408,11 @@ header {
         text-decoration: none;
     }
 
+    #certs_menu {
+        flex-direction: row;
+        gap: 0px;
+    }
+
     #last_barrier {
         height: 50px;
     }
@@ -464,14 +502,19 @@ header {
         font-size: 20px;
     }
 
-    .exp_box {
+    .edu_box, .exp_box {
         z-index: 2;
         transform: scale(1);
         transition: transform 1s;
     }
 
-    .exp_box:hover {
+    .edu_box:hover, .exp_box:hover {
         transform: scale(1.05)
+    }
+
+    #certs_menu {
+        flex-direction: row;
+        gap: 0px;
     }
 
     .work_box {
